@@ -1,0 +1,14 @@
+ipykernel
+jupyter
+matplotlib
+scipy
+numpy
+sympy
+nbformat
+quarto
+pinocchio
+
+# pip-only packages
+robot_descriptions
+mujoco
+mediapy
