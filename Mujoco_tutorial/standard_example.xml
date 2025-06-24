@@ -1,4 +1,5 @@
 <mujoco>
+  <option gravity="0 0 -1"/>
     <visual>
     <global offwidth="1920" offheight="1080"/>
     </visual>
@@ -7,7 +8,7 @@
     <geom type="plane" size="1 1 0.1" rgba=".9 0 0 1"/>
     <body pos="0 0 1">
       <joint type="free"/>
-      <geom type="box" size=".1 .2 .3" rgba="0 .9 0 1"/>
+      <geom type="box" size=".1 .2 .3" rgba="0 .9 .9 1"/>
     </body>
   </worldbody>
 </mujoco>

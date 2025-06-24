@@ -27,6 +27,6 @@
     </keyframe>
 
     <actuator>
-		  <motor ctrllimited="true" ctrlrange="-8 8" gear="1" joint="joint1" name="slide"/>
+		  <motor ctrllimited="false" ctrlrange="-8 8" gear="1" joint="joint1" name="slide"/>
 	  </actuator>
 </mujoco>
