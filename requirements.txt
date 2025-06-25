@@ -6,7 +6,7 @@ numpy
 sympy
 nbformat
 quarto
-pinocchio
+pin
 
 # pip-only packages
 robot_descriptions
